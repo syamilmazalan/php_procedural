@@ -1,0 +1,11 @@
+body {
+  overflow: hidden;
+}
+
+.content {
+  height: 100vh;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
